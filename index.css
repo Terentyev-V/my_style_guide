@@ -1,0 +1,182 @@
+.playwrite-es-deco {
+    font-family: "Playwrite ES Deco", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.playwrite-mx {
+    font-family: "Playwrite MX", cursive;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
+  }
+
+body {
+    background-color: rgb(234, 221, 221);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.breadcrumb {
+text-align: center;
+}
+
+.breadcrumb li {
+    display: inline;
+    }
+
+.breadcrumb li+li::before {
+    content: "~";
+    color: red;
+}
+
+.breadcrumb li+li::after {
+    color: white;
+}
+
+.colors {
+    border: 2px, solid, grey;
+    max-width: 1000px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.fonts {
+    border: 2px, solid, grey;
+    max-width: 1000px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.text_styles {
+    border: 2px, solid, grey;
+    max-width: 1000px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.panel {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 90px;
+}
+
+.blue {
+    border: 3px, solid, black ;
+    background-color: #21ecff;
+    color: Black;
+}
+
+.pink-brown {
+    border: 3px, solid, black ;
+    background-color: #bc8f8f;
+    color: Black;
+}
+
+.indigo {
+    border: 3px, solid, black ;
+    background-color: #310062;
+    color: Black;
+}
+
+.panel:hover {
+    color: white;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.panel_a {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 90px;
+    vertical-align: text-top;
+}
+.panel_aa:hover {
+  color: rgb(113, 5, 59);
+    
+}
+
+.text {
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 90px;
+    vertical-align: super;
+}
+
+
+
+.ES1 {
+    font-family: "Playwrite ES Deco", cursive; 
+    font-size: 20px;
+    font-weight: 400;
+}
+.ES2 {
+    font-family: "Playwrite ES Deco", cursive; 
+    font-size: 20px;
+    font-weight: 200;
+}
+.ES3 {
+    font-family: "Playwrite ES Deco", cursive; 
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+
+.PMX1 {
+    font-family: "Playwrite MX", cursive; 
+    font-size: 20px;
+    font-weight: 400;
+}
+.PMX2 {
+    font-family: "Playwrite MX", cursive; 
+    font-size: 20px;
+    font-weight: 200;
+}
+.PMX3 {
+    font-family: "Playwrite MX", cursive; 
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+.MTS1 {
+    font-family: "Montserrat", italic; 
+    font-size: 20px;
+    font-weight: 900;
+}
+.MTS2 {
+    font-family: "Montserrat", italic; 
+    font-size: 20px;
+    font-weight: 600;
+}
+.MTS3 {
+    font-family: "Montserrat", italic; 
+    font-size: 20px;
+    font-weight: 400;
+}
+.MTS4 {
+    font-family: "Montserrat", italic; 
+    font-size: 20px;
+    font-weight: 200;
+}
